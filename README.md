@@ -1,0 +1,1 @@
+This project implements the famous Simon Game, which is an electronic game of memory skill invented by Ralph H. Baer and Howard J.Morrison in the 1970s. The project is programmed in HTML, CSS and JavaScript with jQuery. 
